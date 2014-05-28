@@ -1,4 +1,4 @@
 MyProject
 =========
 
-MyProject
+My first test project
